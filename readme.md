@@ -25,4 +25,8 @@ Like we've been doing since Intro, make sure to list what license you'd like app
 You are not necessarily required to use these exact heading names, or include information in this exact order/format, we simply expect that all of these details are included in all User Interfaces project READMEs in whatever order and format you choose.
 
 
-test
+Given positive integers A, B, and N, write a program that prints integers from 1 to N. But for integers that are multiples of A, print 'F', and for multiples of B, print 'B'. For integers which are multiples of both A and B, print 'FB'.
+Input:
+Your program should read lines of text from standard input. Each line will contain A, B, and N as space-delimited positive integers.
+Output:
+For each line of input, print to standard output a line of space-delimited integers 1 through N, replacing integers as described above.
